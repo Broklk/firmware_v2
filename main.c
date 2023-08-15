@@ -4,4 +4,6 @@ void main(){
 	int d = 2:
 	int a;
 	a = b + c + d;
+	
+	print("Hola Cheffy");
 }
